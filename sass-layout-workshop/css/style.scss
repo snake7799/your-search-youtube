@@ -90,6 +90,8 @@ main {
 
 .slider {
 	position: relative;
+	width: 1530px;
+    	height: 584px;
 	
 	h2,
 	h4 {
@@ -144,6 +146,12 @@ main {
 		
 		&:nth-of-type(2) {
 			background-color: $colorDustyGray;
+		}
+		
+		&:hover,
+		&:focus {
+		    background-color: $colorTundora;
+		    cursor: pointer;
 		}
 	}
 }
@@ -503,7 +511,7 @@ blockquote {
 }
 
 .icon-picture {
-    left: 8px;
+    left: 9px;
 }
 
 .icon-pen,
