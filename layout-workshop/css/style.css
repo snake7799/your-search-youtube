@@ -107,6 +107,8 @@ main {
 
 .slider {
     position: relative;
+    width: 1530px;
+    height: 584px;
 }
 
 .slider h2,
@@ -184,6 +186,11 @@ main {
 
 .switch-states div:nth-of-type(2) {
 	background-color: #999999;
+}
+
+.switch-states div:hover, 
+.switch-states div:focus {
+    background-color: #464646;
 }
 
 .down-arrow:before,
@@ -287,6 +294,8 @@ blockquote .art-preview p,
     background-color: #212121;
 }
 
+.switch-states div:hover,
+.switch-states div:focus,
 .newsletter button:hover,
 .newsletter button:focus,
 .item button:hover,
@@ -535,7 +544,7 @@ blockquote .art-preview p {
 }
 
 .icon-picture {
-    left: 8px;
+    left: 9px;
 }
 
 .icon-pen,
