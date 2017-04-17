@@ -1,0 +1,22 @@
+@mixin fontHind($size) {
+	font: {
+		family: 'Hind', sans-serif;
+		size: $size;
+	}
+}
+
+@mixin fontMontserrat($size) {
+	font: {
+		family: 'Montserrat', sans-serif;
+		size: $size;
+	}
+}
+
+@mixin border($side, $color) {
+	@if $side == all {
+		border: 1px solid $color;
+	} 
+	@else {
+		border-#{$side}: 1px solid $color;
+	}
+}
