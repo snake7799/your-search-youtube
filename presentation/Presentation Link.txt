@@ -1,3 +1,0 @@
-Express & koa by Pavel Egorov
-
-http://slides.com/snake79/express_koa/fullscreen

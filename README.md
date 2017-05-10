@@ -1,2 +1,1 @@
-# snake7799-front-end-course
-Pavel Egorov, BSUIR, 2012
+# YourSearch by Pavel Egorov (RS School YouTube Task)
