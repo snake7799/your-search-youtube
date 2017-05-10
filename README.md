@@ -1,1 +1,2 @@
-# YourSearch by Pavel Egorov (RS School YouTube Task)
+# YourSearch (RS School YouTube Task)
+by Pavel Egorov
